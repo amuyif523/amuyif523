@@ -1,10 +1,8 @@
 Hi, I'm Amanuel Fikremariam 👋
-I'm a passionate developer and data science enthusiast based in Addis Ababa, Ethiopia, I have a major interest in data and AI related fields and 
-have also dabbled in Fullstack development over the past few years.
-I am currently pursuing my degree in Computer Science from HiLCoE School of Computer Science and Technology.
+I'm a passionate developer and data science enthusiast based in Addis Ababa, Ethiopia,
 
-🔭 I’m currently working on a sentiment analysis web application that processes user reviews using Natural Language Processing (NLP).
+My single-minded focus for the next two years is to achieve a world-class level of expertise in Artificial Intelligence and Machine Learning.
 
-🌱 I’m currently learning about Deep Learning frameworks like TensorFlow and exploring how to deploy models using Docker and Kubernetes.
+I am publicly documenting my entire journey—from the first line of Python to deploying production-ready models. My approach is built on relentless learning, building practical projects, and a commitment to solving real-world problems with data.
 
-📫 How to reach me: amanfikre523@gmail.com
+Follow my journey as I build my skills in public.
